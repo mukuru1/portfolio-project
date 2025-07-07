@@ -29,7 +29,7 @@ const About: React.FC = () => {
           <div className="space-y-6">
             <div>
               <h3 className="text-2xl font-bold text-gray-900 mb-4">
-                Hi, I'm Mukuru — a passionate front-end developer
+                Hi, I'm Kabenga Edwin Junior — a passionate front-end developer
               </h3>
               <p className="text-gray-600 text-lg leading-relaxed mb-6">
                 Based in Rwanda, I specialize in turning creative ideas into modern, high-performing websites. 

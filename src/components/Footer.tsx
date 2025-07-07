@@ -50,8 +50,8 @@ const Footer: React.FC = () => {
           <div className="space-y-4">
             <h3 className="text-lg font-semibold">Let's Connect</h3>
             <div className="space-y-2 text-gray-400">
-              <div>mukuru@example.com</div>
-              <div>+250 123 456 789</div>
+              <div>kabengaedwin@gmail.com</div>
+              <div>+250 780528976</div>
               <div>Kigali, Rwanda</div>
             </div>
             <div className="flex space-x-4 pt-4">
